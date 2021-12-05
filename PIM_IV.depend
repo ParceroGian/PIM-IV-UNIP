@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1637707974 source:c:\users\jueini\desktop\nova pasta\pim_iv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Locale.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<unistd.h>
+	<fcntl.h>
+
+1637783584 source:c:\users\jueini\desktop\nova pasta\nova pasta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Locale.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<unistd.h>
+	<fcntl.h>
+
+1637951192 source:c:\users\jueini\desktop\nova pasta\pim-iv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Locale.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<unistd.h>
+	<fcntl.h>
+
+1638223194 source:c:\users\jueini\desktop\pim-iv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Locale.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<unistd.h>
+	<fcntl.h>
+
